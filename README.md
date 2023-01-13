@@ -30,15 +30,15 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 Link : `link del deploy`
 
-<a href=""><img src="" alt="Imagen o Gif del Proyecto terminado" /></a>
+<a href=""><img src="" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
 
 ## :anger: Authors
-<hr>
+
 - [Javier Vallejo - @rjavier001](https://github.com/rjavier001)
-- [Jonathan Sánchez - @](https://github.com/rjavier001)
+- [Jonathan Sánchez - @user](https://github.com/rjavier001)
 - [Bryan Sánchez - @Bryan-ITSQMET](https://github.com/Bryan-ITSQMET)
 
-## Contribute
+## :call_me_hand: Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
@@ -48,7 +48,7 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 
 ## 👨‍🚀 Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you liked this project
 
 ## 🤷‍♂️ FAQ
 
