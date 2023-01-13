@@ -20,11 +20,11 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 - [Home](#movies-project---kruger-start)
 - [Website](#website)
-- [Contribute](#contribute)
+- [Contribute](#call_me_hand-contribute)
 - [Authors](#anger-authors)
 - [License](#pencil-license)
-- [Support](#👨‍🚀-show-your-support)
-- [Faq](#🤷‍♂️-faq)
+- [Support](#man_astronaut-show-your-support)
+- [Faq](#shipit-faq)
 
 ## Website
 
@@ -34,24 +34,27 @@ Link : `link del deploy`
 
 ## :anger: Authors
 
-- [Javier Vallejo - @rjavier001](https://github.com/rjavier001)
-- [Jonathan Sánchez - @user](https://github.com/rjavier001)
-- [Bryan Sánchez - @Bryan-ITSQMET](https://github.com/Bryan-ITSQMET)
+- [Javier Vallejo - @rjavier001](https://github.com/rjavier001) :octocat:
+- [Jonathan Sánchez - @user](https://github.com/rjavier001) :octocat:
+- [Bryan Sánchez - @Bryan-ITSQMET](https://github.com/Bryan-ITSQMET) :octocat:
 
 ## :call_me_hand: Contribute
-
-Contributions are always welcome! Please create a PR to add Github Profile.
+- [Juan Sebastian Sotomayor - @Juanse7793](https://github.com/Juanse7793) - Tutor Front End.
 
 ## :pencil: License
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
-## 👨‍🚀 Show your support
+## :man_astronaut: Show your support
 
-Give a ⭐️ if you liked this project
+Give a ⭐️ if you liked this project.
 
-## 🤷‍♂️ FAQ
+## :shipit: FAQ
 
-1. ¿Que es Kruger Start?
+1. ¿What is Kruger Start?
+A unique accelerated learning process, in which you will master the most important and modern technologies for software developers. Created by the company Kruger Corp.
+More information in : https://ktalks.krugercorp.com/es/kruger-star-2022
 
-![Logo](https://www.google.com/logos/doodles/2022/ecuador-independence-day-2022-6753651837109630-law.gif)
+2. ¿What is Kruger Corp?
+It is a multinational company that began its activities in Ecuador in the 90s, dedicated to enabling the 4th Industrial Revolution, through digital transformation and the use of disruptive technologies, through consulting services and business innovation, Human Talent management and Culture, conceptualization and promotion of energy, transport and environmental engineering projects. Also called the Ecuadorian Google
+<div align="center"><img alt="gif" src="https://www.google.com/logos/doodles/2022/ecuador-independence-day-2022-6753651837109630-law.gif" width="300"></div>
