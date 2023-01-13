@@ -1,5 +1,5 @@
 <div align="center"><img alt="gif" src="https://krugercorp.com/wp-content/uploads/2022/02/Logo-Kruger_headermobil.gif" width="500"></div>
-<span align="center" style="color:orange">
+<span align="center">
 
 # Movies Project - Kruger Start
 
@@ -20,8 +20,8 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 - [Home](#movies-project---kruger-start)
 - [Website](#website)
-- [Contribute](#call_me_hand-contribute)
 - [Authors](#anger-authors)
+- [Acknowledgment](#call_me_hand-acknowledgment)
 - [License](#pencil-license)
 - [Support](#man_astronaut-show-your-support)
 - [Faq](#shipit-faq)
@@ -38,7 +38,7 @@ Link : `link del deploy`
 - [Jonathan Sánchez - @user](https://github.com/rjavier001) :octocat:
 - [Bryan Sánchez - @Bryan-ITSQMET](https://github.com/Bryan-ITSQMET) :octocat:
 
-## :call_me_hand: Contribute
+## :call_me_hand: Acknowledgment
 - [Juan Sebastian Sotomayor - @Juanse7793](https://github.com/Juanse7793) - Tutor Front End.
 
 ## :pencil: License
@@ -51,10 +51,10 @@ Give a ⭐️ if you liked this project.
 
 ## :shipit: FAQ
 
-1. ¿What is Kruger Start?
+1. ¿What is Kruger Start?<br>
 A unique accelerated learning process, in which you will master the most important and modern technologies for software developers. Created by the company Kruger Corp.
 More information in : https://ktalks.krugercorp.com/es/kruger-star-2022
 
-2. ¿What is Kruger Corp?
+2. ¿What is Kruger Corp?<br>
 It is a multinational company that began its activities in Ecuador in the 90s, dedicated to enabling the 4th Industrial Revolution, through digital transformation and the use of disruptive technologies, through consulting services and business innovation, Human Talent management and Culture, conceptualization and promotion of energy, transport and environmental engineering projects. Also called the Ecuadorian Google
 <div align="center"><img alt="gif" src="https://www.google.com/logos/doodles/2022/ecuador-independence-day-2022-6753651837109630-law.gif" width="300"></div>
