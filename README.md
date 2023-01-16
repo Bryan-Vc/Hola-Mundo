@@ -26,11 +26,13 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 - [Support](#man_astronaut-show-your-support)
 - [Faq](#shipit-faq)
 
-## Website - DeployMent
+## :rocket: Website - DeployMent
 
 <a target="_blank" href="https://kruger-movie-app.netlify.app/"><span align="center">Click Me =></span><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/deploy-1995643-1686449.png" widht="100" height="100"/> </a>
 
 <a href=""><img src="https://user-images.githubusercontent.com/91750960/212596614-5aa0c54b-d15e-4708-a3e2-d83adc286719.PNG" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
+
+## :hammer_and_wrench: Build With
 
 ## :anger: Authors
 
