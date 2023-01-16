@@ -30,7 +30,7 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 Link : `link del deploy`
 
-<a href=""><img src="(https://user-images.githubusercontent.com/91750960/212591655-9fb6db4d-5681-4801-b1c5-25acbe2e8693.png" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
+<a href=""><img src="https://user-images.githubusercontent.com/91750960/212591655-9fb6db4d-5681-4801-b1c5-25acbe2e8693.png" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
 
 ## :anger: Authors
 
