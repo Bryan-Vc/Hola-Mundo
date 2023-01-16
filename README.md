@@ -19,7 +19,7 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 ## Table of Contents
 
 - [Home](#movies-project---kruger-start)
-- [Website](#website)
+- [Website](#website---deployment)
 - [Authors](#anger-authors)
 - [Acknowledgment](#call_me_hand-acknowledgment)
 - [License](#pencil-license)
@@ -28,8 +28,7 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 ## Website - DeployMent
 
-Link : 
-<a target="_blank" href="https://kruger-movie-app.netlify.app/"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/deploy-1995643-1686449.png" widht="100" height="100"/> => Click Me</a>
+<a target="_blank" href="https://kruger-movie-app.netlify.app/"><span align="center">Click Me =></span><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/deploy-1995643-1686449.png" widht="100" height="100"/> </a>
 
 <a href=""><img src="https://user-images.githubusercontent.com/91750960/212596614-5aa0c54b-d15e-4708-a3e2-d83adc286719.PNG" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
 
