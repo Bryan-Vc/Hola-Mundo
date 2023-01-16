@@ -28,7 +28,8 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 ## Website
 
-Link : https://kruger-movie-app.netlify.app/
+Link : <a target=_blank href="https://kruger-movie-app.netlify.app/">Presioname|</a> 
+
 
 <a href=""><img src="https://user-images.githubusercontent.com/91750960/212596614-5aa0c54b-d15e-4708-a3e2-d83adc286719.PNG" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
 
