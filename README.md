@@ -28,8 +28,8 @@ This app is used to see a list of the most current movies, summaries, actors, tr
 
 ## Website
 
-Link : <a target=_blank href="https://kruger-movie-app.netlify.app/">Deploy the app - !Click me</a> 
-
+Link : <img>
+<a href="https://kruger-movie-app.netlify.app/"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/deploy-1995643-1686449.png" widht="100" height="100"/> => Click Me</a>
 
 <a href=""><img src="https://user-images.githubusercontent.com/91750960/212596614-5aa0c54b-d15e-4708-a3e2-d83adc286719.PNG" alt="Imagen o Gif del Proyecto terminado" /></a><hr>
 
